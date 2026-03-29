@@ -1,11 +1,14 @@
-- 👋 Oi.. sou NinaGui
-- 👀 tenho 58 anos, trabalho com programação e análise de dados
-- 🌱 formada em Análise de Sistema, pós graduada em Análise de Dados
-- 💞️ Conheço um pouco de HTML, CSS, javascript, VB, WordPress, Joomla
-- 💞️ conhecendo um pouco de Power BI
-- 📫 se quiser me ajudar a ser excelente como você, pode me seguir...
-- "A prática leva à perfeição!"
-- Com Jesus no barco, seu barco nunca afunda.
+# Oi, sou Nina Guimarães 👋
+
+Analista de Dados | BI | Python | Desenvolvimento Web
+
+Profissional com experiência no setor público e privado, especializada em análise de dados, automação de processos e construção de sistemas web com Python.
+
+🚀 Atualmente desenvolvendo projetos reais com Flask, Docker, Nginx e deploy em produção.
+
+📊 Dados, dashboards e governança
+💻 Sistemas web e automação
+🐍 Python, SQL e BI
 
 <!---
 ignina/ignina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
